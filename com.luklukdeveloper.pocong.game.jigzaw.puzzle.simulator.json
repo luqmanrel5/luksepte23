@@ -1,0 +1,34 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294x",
+      "open_ads_alien":"1",
+      "switch_open_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779x",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Mods": [
+    {
+      "name": "Kuntilanak",
+      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
+      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
+      "link_saves": "null",
+      "description": "null"
+    }
+  ]
+}
